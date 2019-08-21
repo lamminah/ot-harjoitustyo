@@ -1,5 +1,5 @@
 commit d22dda945e119ef98bd7dbeb87e8b26dbc638cd6 (HEAD -> master)
-Author: Marko Lamminaho <markolamminaho@hotmail.com>
+Author: Marko Lamminaho  <markolamminaho@hotmail.com>
 Date:   Wed Aug 21 17:21:20 2019 +0300
 
     muutokset talteen
