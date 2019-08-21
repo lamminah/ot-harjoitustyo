@@ -1,0 +1,5 @@
+Folder PATH listing for volume OS_Install
+Volume serial number is A005-8465
+C:\USERS\MARKO\OT-HARJOITUSTYO\KURSSIT
+Invalid path - \USERS\MARKO\OT-HARJOITUSTYO\KURSSIT
+No subfolders exist
