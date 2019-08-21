@@ -1,0 +1,17 @@
+commit d22dda945e119ef98bd7dbeb87e8b26dbc638cd6 (HEAD -> master)
+Author: Marko Lamminaho <markolamminaho@hotmail.com>
+Date:   Wed Aug 21 17:21:20 2019 +0300
+
+    muutokset talteen
+
+ laskarit/viikko1/komentorivi.txt | 5 +++++
+ 1 file changed, 5 insertions(+)
+
+commit ebf13e59397beebb689ec2db8d44e5979fa7683c (origin/master)
+Author: Marko Lamminaho <markolamminaho@hotmail.com>
+Date:   Wed Aug 21 16:27:20 2019 +0300
+
+    initial commit
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
