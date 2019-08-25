@@ -1,0 +1,19 @@
+title Authentication Sequence
+
+käyttäjä -> selain: luo uuden muistiinpanon
+käyttäjä -> selain: painaa nappia 'tallenna'
+note over selain:
+selain koostaa lähetettävän HTTPS pyynnön 
+end note
+note over selain:
+selain renderöi muistiinpanot näytölle
+end note
+note over selain:
+selain lähettää HTTPS pyynnön 
+/new_note_spa instanssille json-muodossa
+end note
+selain -> palvelin: HTTPS POST https://fullstack-exampleapp.herokuapp.com/new_note_spa  
+note over palvelin:
+palvelin lisää uuden elementin notes-taulukkoon 
+vastaanotettujen json-datan parametrien mukaisesti
+end note
